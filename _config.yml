@@ -1,7 +1,7 @@
 name: Houtootje
 favicon: null
-layout_spectrum: 0.9086498261895031
-typography_spectrum: 0.8824765868484974
+layout_spectrum: 0.52122
+typography_spectrum: 0.5125
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.031687052454799414
-  lightness: 0.38353593880310655
-  saturation: 0.04854084015823901
-  rhythmicContrast: 0.2494111186824739
+    - '#fc7229'
+    - '#ebecee'
+    - '#ccb4b2'
+    - '#2f1508'
+    - '#8a7675'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
