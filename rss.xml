@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Houtootje]]></title>
-        <description><![CDATA[Houtootje]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Coole auto's van hout, voor jong en oud]]></title>
+        <description><![CDATA[Coole auto's van hout, voor jong en oud]]></description>
+        <link>https://thegrid.ai/houtootje/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 12:24:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 12:28:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/houtootje/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Houtootje]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/159d3acf-cd88-40a1-9877-40690cf3b5d8.jpg">]]></description>
-            <link>undefinedhoutootje-hele-coole-autos-van-hout-voor-jong-en-oud/index.html</link>
+            <link>https://thegrid.ai/houtootje/houtootje-hele-coole-autos-van-hout-voor-jong-en-oud/index.html</link>
             <guid isPermaLink="false">f0477e58-8181-4373-93d6-ee0a6c5ba159</guid>
-            <pubDate>Mon, 06 Jun 2016 12:24:08 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2016 12:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
